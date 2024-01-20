@@ -2,12 +2,16 @@
 
 ## Module 2
 
-<h3 style="display: inline-block; border-bottom: 2px dashed currentColor">Personal Website</h3> 🔗
+### *Personal Website*
+
+| [Repo](https://github.com/mendez-v/personal-website) | [Scrim](https://scrimba.com/scrim/c8p46mu3) | [Live](https://mendez-v.github.io/personal-website/) |
+| --- | --- | --- |
 
 ![Personal Website sample](https://raw.githubusercontent.com/mendez-v/personal-website/main/assets/image/mobile-preview.webp)
 
-<div style="margin-inline: auto; display:flex; align-items: center; justify-content: center; gap: 2.5rem; font-size: 1.15rem;">
-  <a href="https://github.com/mendez-v/personal-website">Repo</a>
-  <a href="https://scrimba.com/scrim/c8p46mu3">Scrim</a>
-  <a href="https://mendez-v.github.io/personal-website/">Live</a>
-</div>
+### *Business Card*
+
+| [Repo](https://github.com/mendez-v/business-card) | [Scrim](https://scrimba.com/scrim/cbGdgwf4) | [Live](https://mendez-v.github.io/business-card/) |
+| --- | --- | --- |
+
+![Business Card sample](https://raw.githubusercontent.com/mendez-v/business-card/main/assets/video/sample.gif)
