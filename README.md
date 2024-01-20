@@ -15,3 +15,10 @@
 | --- | --- | --- |
 
 ![Business Card sample](https://raw.githubusercontent.com/mendez-v/business-card/main/assets/video/sample.gif)
+
+### *Hometown Homepage*
+
+| [Repo](https://github.com/mendez-v/hometown-homepage) | [Scrim](https://scrimba.com/scrim/c6rkzbt3) | [Live](https://mendez-v.github.io/hometown-homepage/) |
+| --- | --- | --- |
+
+![Hometown Homepage sample](https://raw.githubusercontent.com/mendez-v/hometown-homepage/main/assets/video/sample.gif)
