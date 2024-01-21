@@ -12,7 +12,7 @@
 
 ## Module 2
 
-### *Hometown Homepage*
+### *Hometown Homepage - Solo Project*
 
 | [Repo](https://github.com/mendez-v/hometown-homepage) | [Scrim](https://scrimba.com/scrim/c6rkzbt3) | [Live](https://mendez-v.github.io/hometown-homepage/) |
 | --- | --- | --- |
