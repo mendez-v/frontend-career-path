@@ -1,13 +1,23 @@
 # Frontend Career Path - Scrimba
 
-## Module 2
+## Module 3
 
-### *Personal Website*
+### *Passenger Counter*
 
-| [Repo](https://github.com/mendez-v/personal-website) | [Scrim](https://scrimba.com/scrim/c8p46mu3) | [Live](https://mendez-v.github.io/personal-website/) |
+| [Repo](https://github.com/mendez-v/passenger-counter) | [Scrim](https://scrimba.com/scrim/cBerPytw) | [Live](https://mendez-v.github.io/passenger-counter/) |
 | --- | --- | --- |
 
-![Personal Website sample](https://raw.githubusercontent.com/mendez-v/personal-website/main/assets/image/mobile-preview.webp)
+![Hometown Homepage sample](https://raw.githubusercontent.com/mendez-v/passenger-counter/main/assets/video/sample.gif)
+
+
+## Module 2
+
+### *Hometown Homepage*
+
+| [Repo](https://github.com/mendez-v/hometown-homepage) | [Scrim](https://scrimba.com/scrim/c6rkzbt3) | [Live](https://mendez-v.github.io/hometown-homepage/) |
+| --- | --- | --- |
+
+![Hometown Homepage sample](https://raw.githubusercontent.com/mendez-v/hometown-homepage/main/assets/video/sample.gif)
 
 ### *Business Card*
 
@@ -16,9 +26,11 @@
 
 ![Business Card sample](https://raw.githubusercontent.com/mendez-v/business-card/main/assets/video/sample.gif)
 
-### *Hometown Homepage*
+### *Personal Website*
 
-| [Repo](https://github.com/mendez-v/hometown-homepage) | [Scrim](https://scrimba.com/scrim/c6rkzbt3) | [Live](https://mendez-v.github.io/hometown-homepage/) |
+| [Repo](https://github.com/mendez-v/personal-website) | [Scrim](https://scrimba.com/scrim/c8p46mu3) | [Live](https://mendez-v.github.io/personal-website/) |
 | --- | --- | --- |
 
-![Hometown Homepage sample](https://raw.githubusercontent.com/mendez-v/hometown-homepage/main/assets/video/sample.gif)
+![Personal Website sample](https://raw.githubusercontent.com/mendez-v/personal-website/main/assets/image/mobile-preview.webp)
+
+
