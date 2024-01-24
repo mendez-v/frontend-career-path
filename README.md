@@ -2,6 +2,13 @@
 
 ## Module 3
 
+### *Basketball Scoreboard - Solo Project*
+
+| [Repo](https://github.com/mendez-v/basketball-scoreboard) | [Scrim](https://scrimba.com/scrim/c2vdzbhw) | [Live](https://mendez-v.github.io/basketball-scoreboard/) |
+| --- | --- | --- |
+
+![Basketball Scoreboard sample](https://raw.githubusercontent.com/mendez-v/basketball-scoreboard/main/assets/video/sample.gif)
+
 ### *Passenger Counter*
 
 | [Repo](https://github.com/mendez-v/passenger-counter) | [Scrim](https://scrimba.com/scrim/cBerPytw) | [Live](https://mendez-v.github.io/passenger-counter/) |
