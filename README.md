@@ -2,6 +2,13 @@
 
 ## Module 3
 
+### *Password Generator - Solo Project*
+
+| [Repo](https://github.com/mendez-v/password-generator) | [Scrim](https://scrimba.com/scrim/cENKGruK) | [Live](https://mendez-v.github.io/password-generator/) |
+| --- | --- | --- |
+
+![Password Generator sample](https://raw.githubusercontent.com/mendez-v/password-generator/main/assets/video/sample.gif)
+
 ### *Basketball Scoreboard - Solo Project*
 
 | [Repo](https://github.com/mendez-v/basketball-scoreboard) | [Scrim](https://scrimba.com/scrim/c2vdzbhw) | [Live](https://mendez-v.github.io/basketball-scoreboard/) |
