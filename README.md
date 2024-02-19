@@ -2,6 +2,13 @@
 
 ## Module 3
 
+### *Chrome Extension*
+
+| [Repo](https://github.com/mendez-v/chrome-extension) | [Scrim](https://scrimba.com/scrim/c6qWkLcG) |
+| --- | --- |
+
+![Chrome Extension sample](https://raw.githubusercontent.com/mendez-v/chrome-extension/main/assets/video/sample.gif)
+
 ### *Password Generator - Solo Project*
 
 | [Repo](https://github.com/mendez-v/password-generator) | [Scrim](https://scrimba.com/scrim/cENKGruK) | [Live](https://mendez-v.github.io/password-generator/) |
