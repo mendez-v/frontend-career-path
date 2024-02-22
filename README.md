@@ -2,6 +2,13 @@
 
 ## Module 3
 
+### *Unit Conversion - Solo Project*
+
+| [Repo](https://github.com/mendez-v/unit-conversion) | [Scrim](https://scrimba.com/scrim/cVLv7kAM) |
+| --- | --- |
+
+![Unit Conversion sample](https://raw.githubusercontent.com/mendez-v/unit-conversion/main/assets/video/sample.gif)
+
 ### *Chrome Extension*
 
 | [Repo](https://github.com/mendez-v/chrome-extension) | [Scrim](https://scrimba.com/scrim/c6qWkLcG) |
