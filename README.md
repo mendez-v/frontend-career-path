@@ -2,6 +2,13 @@
 
 ## Module 3
 
+### *Mobile App* 🔥
+
+| [Repo](https://github.com/mendez-v/mobile-app) | [Scrim](https://scrimba.com/scrim/c7vGqbhV) |
+| --- | --- |
+
+![Mobile App sample](https://raw.githubusercontent.com/mendez-v/mobile-app/main/assets/video/sample.gif)
+
 ### *Unit Conversion - Solo Project*
 
 | [Repo](https://github.com/mendez-v/unit-conversion) | [Scrim](https://scrimba.com/scrim/cVLv7kAM) |
