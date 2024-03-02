@@ -2,7 +2,14 @@
 
 ## Module 3
 
-### *Mobile App* 🔥
+### *We are the Champions - Solo Project* 🔥
+
+| [Repo](https://github.com/mendez-v/champions) | [Scrim](https://scrimba.com/scrim/cEN2MRfN) |
+| --- | --- |
+
+![Mobile App sample](https://raw.githubusercontent.com/mendez-v/champions/main/assets/video/sample.gif)
+
+### *Mobile App*
 
 | [Repo](https://github.com/mendez-v/mobile-app) | [Scrim](https://scrimba.com/scrim/c7vGqbhV) |
 | --- | --- |
