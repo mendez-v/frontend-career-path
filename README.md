@@ -1,8 +1,18 @@
 # Frontend Career Path - Scrimba
 
+## Modulo 4
+
+### *Oldagram - Solo Project* 🔥🔥
+
+| [Repo](https://github.com/mendez-v/fcp-oldagram) | [Scrim](https://scrimba.com/scrim/c6qBzbuK) |
+| --- | --- |
+
+![Mobile App sample](https://raw.githubusercontent.com/mendez-v/fcp-oldagram/main/assets/video/sample.gif)
+
+
 ## Module 3
 
-### *We are the Champions - Solo Project* 🔥
+### *We are the Champions - Solo Project*
 
 | [Repo](https://github.com/mendez-v/champions) | [Scrim](https://scrimba.com/scrim/cEN2MRfN) |
 | --- | --- |
